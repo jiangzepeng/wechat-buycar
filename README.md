@@ -1,5 +1,5 @@
 # wechat-weapp-buycar
-微信小程序-大好商城DEMO
+微信小程序-大好商城demo
 
 ##1.首页
 ![](./demo.png)
