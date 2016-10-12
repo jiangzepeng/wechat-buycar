@@ -4,7 +4,8 @@
     "pages/components/classify/classify",
     "pages/components/person/person",
     "pages/components/games/games",
-    "pages/components/take/take"
+    "pages/components/weather/weather",
+    "pages/components/choosecity/choosecity"
   ],
   "window":{
     "backgroundColor":"#f4f4f4",

@@ -20,6 +20,7 @@
 .wrap-item.exp{
 	border: 1px solid #ddd;
 	border-top: 0;
+    color: red;
 }
 .line_flag {
     width: 5px;

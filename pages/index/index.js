@@ -14,25 +14,25 @@ Page({
     
     navItems:[
       {
-        name:'分类',
-        url:'classify'
+        name:'待开发',
+        url:'bill'
+      },
+      {
+        name:'查询天气',
+        url:'weather',
+         isSplot:true,
       },
       {
         name:'待开发',
-        url:'games',
-        isSplot:true
-      },
-      {
-        name:'待开发',
-        url:'out'
+        url:'bill'
       },
       {
         name:'待开发',
         url:'bill'
       }, 
       {
-        name:'待开发',
-        url:'bill',
+        name:'2048',
+        url:'games',
         isSplot:true
       },
       {
@@ -132,7 +132,8 @@ Page({
 
   },
   onLoad: function () {
-    console.log('onLoad')
+    console.log('=========onLoad========')
+    
   }
     
 })

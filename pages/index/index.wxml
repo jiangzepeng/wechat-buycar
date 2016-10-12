@@ -10,7 +10,10 @@
     </block>
   </swiper>
   </view>
-
+ <view class="text">
+        <view class="line_flag"></view>
+        <text>微信功能开发</text>
+    </view>
     <!-- 分类导航 -->
   <view class="nav-block wrap">
     <block wx:for="{{navItems}}"> 
